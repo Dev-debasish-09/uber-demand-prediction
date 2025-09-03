@@ -1,0 +1,5 @@
+{
+    "run_id": "4c54b67494c84d75b7151fd9be560de0",
+    "artifact_path": "uber-demand-prediction",
+    "model_uri": "runs:/4c54b67494c84d75b7151fd9be560de0/uber-demand-prediction"
+}
