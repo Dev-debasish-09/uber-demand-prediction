@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_visual/project_schema.png" alt="Project Schema" width="800"/>
+  <img src="image_visual/Dagshub Viz.png" alt="Project Schema" width="800"/>
 </p>
 
 uber-demand-prediction
