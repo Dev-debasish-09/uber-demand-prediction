@@ -65,12 +65,8 @@ Predicting cab demand across New York City for upcoming time intervals using dat
 <p align="center">
   <img src="image_visual/Dagshub Viz.png" alt="Project Schema" width="800"/>
 </p>
-
-<p align="center">
-  <img src="image_visual/region_split.png" alt="Region Split Visualization" width="800"/>
-</p>
 <div align="center">Region Split Visualization</div>
-<div align="center"><img src=https://github.com/Dev-debasish-09/uber-demand-prediction/blob/main/image_visual/Breaking%20Region.png"?raw=true"></div>
+<div align="center"><img src=https://github.com/Dev-debasish-09/uber-demand-prediction/blob/main/image_visual/Breaking%20Region.png?raw=true"></div>
 
 📌 Project Overview
 
