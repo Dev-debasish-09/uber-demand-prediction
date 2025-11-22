@@ -1,6 +1,6 @@
 
 ## 🚕 Uber Demand Prediction :
-==============================
+
 
 Predicting cab demand across New York City for upcoming time intervals using data-driven techniques.
 
@@ -103,10 +103,15 @@ make predict
 ## 📊 Project Workflow:
 
 ✔ Data Collection
+
 ✔ Data Cleaning & Feature Engineering
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Model Training (ML/DL models)
+
 ✔ Evaluation
+
 ✔ Visualization & Reporting
 
 ## 👨‍💻 Author:
@@ -115,6 +120,7 @@ make predict
 AI Enthusiast | Data Science & Machine Learning Practitioner
 
 📧 Email: debasishpradhan1934@gmail.com
+
 🔗 GitHub: https://github.com/Dev-debasish-09
 
 
