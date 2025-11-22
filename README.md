@@ -62,6 +62,7 @@ Project Organization
 
 
 🚕 Uber Demand Prediction
+==============================
 
 Predicting cab demand across New York City for upcoming time intervals using data-driven techniques.
 
@@ -74,6 +75,7 @@ The workflow covers data ingestion, preprocessing, feature engineering, modeling
 
 📁 Project Organization
 uber-demand-prediction
+------------
 │
 ├── LICENSE
 ├── Makefile                 <- Commands like `make data` or `make train`
@@ -115,6 +117,7 @@ uber-demand-prediction
     │
     └── visualization
         └── visualize.py
+------------
 
 🔧 Installation & Setup
 1️⃣ Clone this Repository
